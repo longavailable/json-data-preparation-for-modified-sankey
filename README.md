@@ -8,7 +8,9 @@ Steps and explanation to prepare json data for modified Sankey chart.
 
     - Each node for a sub-column,
 
-    - Edit by hand
+    - Edit by hand,
+  
+    - Start from 0.
 
 1. prepare the links file
 
