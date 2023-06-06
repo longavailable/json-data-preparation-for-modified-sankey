@@ -14,7 +14,9 @@ Steps and explanation to prepare json data for modified Sankey chart.
 
 1. prepare the links file
 
-    - Calculated by a 3rd-party
+    - Calculated by a 3rd-party,
+  
+    - `value` should be percentage in a unit of %.
 
 1. concatenate the links and nodes
 
